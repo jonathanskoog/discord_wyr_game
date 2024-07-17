@@ -9,5 +9,5 @@ Features:
 - Ai generated questions
 - Clean and simple commands
 - Easy to set up and use
-- 
+
 Bring the fun and challenge to your Discord server with this engaging Would You Rather bot!
