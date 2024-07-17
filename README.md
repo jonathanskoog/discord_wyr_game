@@ -6,7 +6,7 @@ Tired of boring conversations? Want to spice up your Discord server? Look no fur
 
 Features:
 
-- Ai generated questions
+- Ai generated questions (Google gemini)
 - Clean and simple commands
 - Easy to set up and use
 
