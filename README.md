@@ -11,3 +11,9 @@ Features:
 - Easy to set up and use
 
 Bring the fun and challenge to your Discord server with this engaging Would You Rather bot!
+
+## Commands
+- "play" - Get a random Would You Rather question
+- "help" - Get a list of commands
+- "commands" - Get a refined list of commands
+- "ping" - Check the bot's latency
