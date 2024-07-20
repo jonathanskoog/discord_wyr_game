@@ -22,3 +22,7 @@ Bring the fun and challenge to your Discord server with this engaging Would You 
 
 Insert this link in your browser:
 https://discord.com/oauth2/authorize?client_id=1262924771704836246
+
+## Packages
+- pip install -r requirements.txt
+- run main.py
