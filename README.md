@@ -17,3 +17,8 @@ Bring the fun and challenge to your Discord server with this engaging Would You 
 - "help" - Get a list of commands
 - "commands" - Get a refined list of commands
 - "ping" - Check the bot's latency
+
+## Installation
+
+Insert this link in your browser:
+https://discord.com/oauth2/authorize?client_id=1262924771704836246
