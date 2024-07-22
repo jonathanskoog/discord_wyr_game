@@ -26,5 +26,6 @@ https://discord.com/oauth2/authorize?client_id=1262924771704836246
 ## Packages
 - pip install -r requirements.txt
 - run main.py
-
+  
+##GIF
 ![](https://github.com/jonathanskoog/discord_wyr_game/blob/main/gif.mp4)
